@@ -28,3 +28,7 @@ class ChildInher(Calcolator):
     except Exception:
       # If parent method is not available or fails, still continue
       pass
+
+
+obj = ChildInher()
+print(obj.wellcominMsg)

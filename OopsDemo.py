@@ -11,7 +11,7 @@ class Calcolator:
     print("hello from function inside class")
 
   def wellcominMsg(self):
-    print("hello from parant   class")
+    print("hello from parant class")
 
 
   def summition(self,a,b):
