@@ -10,6 +10,10 @@ class Calcolator:
   def getdata(self):
     print("hello from function inside class")
 
+  def wellcominMsg(self):
+    print("hello from parant   class")
+
+
   def summition(self,a,b):
     self.first + self.second
     return
